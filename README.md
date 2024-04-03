@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramón Velázquez Rojas</h1>
 <h3 align="center">Computer Science Engineer with experience in software development, focused on full-stack development, project management, and solution customization.</h3>
-
-- 📫 How to reach me **rojasramonvelazquez@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/ram%C3%B3n-vel%C3%A1zquez-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramon%20Velazquez%20Rojas-blue?style=flat-square&logo=linkedin"></a>
-  <a href="rojasramonvelazquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rojasramonvelazquez@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-</p>
-
+ 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -25,3 +17,9 @@
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/ram%C3%B3n-vel%C3%A1zquez-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramon%20Velazquez%20Rojas-blue?style=flat-square&logo=linkedin"></a>
+  <a href="rojasramonvelazquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rojasramonvelazquez@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+</p>
