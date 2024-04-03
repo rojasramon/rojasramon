@@ -23,3 +23,5 @@
   <a href="https://www.linkedin.com/in/ram%C3%B3n-vel%C3%A1zquez-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramon%20Velazquez%20Rojas-blue?style=flat-square&logo=linkedin"></a>
   <a href="rojasramonvelazquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rojasramonvelazquez@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 </p>
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
