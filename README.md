@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ram%C3%B3n-vel%C3%A1zquez-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-  <a href="rojasramonvelazquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+  <a href="https://www.linkedin.com/in/ram%C3%B3n-vel%C3%A1zquez-rojas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramón%20Velázquez-Rojas-blue?style=flat-square&logo=linkedin"></a>
+  <a href="rojasramonvelazquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rojasramonvelazquez@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 </p>
 
 ### Technologies
