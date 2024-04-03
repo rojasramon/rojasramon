@@ -24,4 +24,4 @@
   <a href="rojasramonvelazquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rojasramonvelazquez@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 </p>
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=rojasramon&show_icons=true)
